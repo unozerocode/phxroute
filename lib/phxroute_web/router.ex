@@ -19,6 +19,12 @@ defmodule PhxrouteWeb.Router do
     get "/", PageController, :index
   end
 
+  #pipeline :vendor do
+  #    plug Plug.Static,
+  #         at: "/vendor",
+  #         from: {:phxstatic, "priv/static/vendor"}
+  #  end
+
   # Other scopes may use custom stacks.
   # scope "/api", PhxrouteWeb do
   #   pipe_through :api
@@ -37,6 +43,9 @@ defmodule PhxrouteWeb.Router do
     scope "/" do
       pipe_through :browser
       live_dashboard "/dashboard", metrics: PhxrouteWeb.Telemetry
+      #scope "/vendor" do
+      #        pipe_through :vendor
+      #      end
     end
   end
 end

@@ -3,6 +3,46 @@
   <p>Peace of mind from prototype to production</p>
 </section>
 
+
+<div class="slider responsive slick-initialized slick-slider slick-dotted" role="toolbar"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
+
+
+
+
+
+
+
+
+  <div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2464px; transform: translate3d(-528px, 0px, 0px);" role="listbox"><div class="slick-slide slick-cloned" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide55" data-slick-index="-3" aria-hidden="true">
+    <h3>6</h3>
+  </div><div class="slick-slide slick-cloned" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide56" data-slick-index="-2" aria-hidden="true">
+    <h3>7</h3>
+  </div><div class="slick-slide slick-cloned" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide57" data-slick-index="-1" aria-hidden="true">
+    <h3>8</h3>
+  </div><div class="slick-slide slick-current slick-active" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide50" data-slick-index="0" aria-hidden="false">
+    <h3>1</h3>
+  </div><div class="slick-slide slick-active" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide51" data-slick-index="1" aria-hidden="false">
+    <h3>2</h3>
+  </div><div class="slick-slide slick-active" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide52" data-slick-index="2" aria-hidden="false">
+    <h3>3</h3>
+  </div><div class="slick-slide" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide53" data-slick-index="3" aria-hidden="true">
+    <h3>4</h3>
+  </div><div class="slick-slide" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide54" data-slick-index="4" aria-hidden="true">
+    <h3>5</h3>
+  </div><div class="slick-slide" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide55" data-slick-index="5" aria-hidden="true">
+    <h3>6</h3>
+  </div><div class="slick-slide" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide56" data-slick-index="6" aria-hidden="true">
+    <h3>7</h3>
+  </div><div class="slick-slide" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide57" data-slick-index="7" aria-hidden="true">
+    <h3>8</h3>
+  </div><div class="slick-slide slick-cloned" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide50" data-slick-index="8" aria-hidden="true">
+    <h3>1</h3>
+  </div><div class="slick-slide slick-cloned" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide51" data-slick-index="9" aria-hidden="true">
+    <h3>2</h3>
+  </div><div class="slick-slide slick-cloned" style="width: 176px;" tabindex="-1" role="option" aria-describedby="slick-slide52" data-slick-index="10" aria-hidden="true">
+    <h3>3</h3>
+  </div></div></div><button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</button><ul class="slick-dots" style="display: block;" role="tablist"><li class="slick-active" aria-hidden="false" role="presentation" aria-selected="true" aria-controls="navigation50" id="slick-slide50"><button type="button" data-role="none" role="button" tabindex="0">1</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation51" id="slick-slide51"><button type="button" data-role="none" role="button" tabindex="0">2</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation52" id="slick-slide52"><button type="button" data-role="none" role="button" tabindex="0">3</button></li></ul></div>
+
 <section class="row">
   <article class="column">
     <h2>Resources</h2>
